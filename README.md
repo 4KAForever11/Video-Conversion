@@ -68,7 +68,7 @@ Video-Conversion/
 ### 方法一：直接使用
 
 1. 从 [Releases](https://github.com/4KAForever11/Video-Conversion/releases) 下载最新版本的可执行文件
-2. 双击运行 `视频处理工具.exe`
+2. 双击运行 `Video-Processing-Tool.exe`
 
 ### 方法二：从源码运行
 
@@ -113,7 +113,7 @@ python Video-GUI.py
 
 ## 更新日志
 
-### v1.0.0 (2024-03-xx)
+### v1.0.0 (2024-12-08)
 - 初始版本发布
 - 实现基础视频格式转换功能
 - 实现水印去除功能
