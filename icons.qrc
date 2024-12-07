@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>icons/video.svg</file>
+        <file>icons/github.svg</file>
+    </qresource>
+</RCC> 
